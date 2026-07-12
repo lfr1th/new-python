@@ -48,8 +48,7 @@ Remove a specific expense by entering its expense number from the list.
 CSV Format
 
 Expenses are stored in a file named Expenses.csv with the following columns:
-
-ColumnDescriptionDateDate the expense was recordedCategoryType/category of the expenseAmountUnit price of the itemPiecesQuantity purchasedTotal AmountCalculated as Amount × PiecesDescriptionBrief note about the expense
+Date, Category, Amoumt, Pieces, Total Amount, Description
 
 The file is created automatically on first use if it does not already exist.
 
